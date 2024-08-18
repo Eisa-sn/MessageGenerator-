@@ -9,5 +9,10 @@ function randomeMessages(arr){
 
 }
 
+const fahad = "Hi this is Fahad.";
+
+console.log(fahad + "Happy Birth Day");
+
+
 
 console.log(randomeMessages(messages));
